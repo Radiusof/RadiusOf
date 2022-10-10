@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[<img src="https://https://spotify-status-radiusof-radiusof.vercel.app//api/run-spotify-status" alt="Your alt what" width="400" />]https://open.spotify.com/user/11451407?si=4b2ebb139db7476f
+[![Spotify](https://11451407?si=4b2ebb139db7476f.vercel.app/api/spotify)](https://open.spotify.com/user/11451407?si=4b2ebb139db7476f)
