@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify](https://11451407?si=4b2ebb139db7476f.vercel.app/api/spotify)](https://open.spotify.com/user/11451407?si=4b2ebb139db7476f)
+[![Spotify](https://novatorem-git-master-radiusof.vercel.app/api/spotify)](https://open.spotify.com/user/11451407?si=4b2ebb139db7476f)
