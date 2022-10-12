@@ -19,7 +19,7 @@
 
 ## 💻 Current project
 
-- PowerGit
+- Work projects
 
 ## 📚 Learning
 
