@@ -1,18 +1,31 @@
-### Hi there 👋
+# Hello there 👋, I'm Kevin
 
-<!--
-**Radiusof/RadiusOf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A software engineer from Lille
 
-Here are some ideas to get you started:
+## 💬 Ask me about 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend development (C++,Node.js,Python)
+- Frontend web development (React.Js, Electron)
+- Statistics
+- Sound systems & Music in general
+
+## 📅 Hobbies
+
+- Solve programming problems at Codeforces, Codingame, LeetCode
+- Watch movies & TV shows
+- Travelling all around the world when I can
+- Play guitar
+- Videogames
+
+## 💻 Current project
+
+-PowerGit
+
+## 📚 Learning
+
+- Deep Learning and Machine Learning
+- Advanced uses of React.js
+
+## 🎵 Spotify status
 
 [![Spotify](https://novatorem-git-master-radiusof.vercel.app/api/spotify)](https://open.spotify.com/user/11451407?si=4b2ebb139db7476f)
