@@ -6,6 +6,7 @@
 
 - Backend development (C++,Node.js,Python)
 - Frontend web development (React.Js, Electron)
+- Power Application (PowerApps, Power Bi, Power Automation, Sharepoint, ...)
 - Statistics
 - Sound systems & Music in general
 
