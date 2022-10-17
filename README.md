@@ -5,9 +5,7 @@
 ## 💬 Ask me about 
 
 - Backend development (C++,Node.js,Python)
-- Frontend web development (React.Js, Electron)
 - Power Application (PowerApps, Power Bi, Power Automation, Sharepoint, ...)
-- Statistics
 - Sound systems & Music in general
 
 ## 📅 Hobbies
@@ -24,8 +22,10 @@
 
 ## 📚 Learning
 
+- Statistics
 - Deep Learning and Machine Learning
 - Advanced uses of React.js
+- Frontend web development (React.Js, Electron)
 
 ## 🎵 Spotify status
 
