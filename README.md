@@ -24,7 +24,6 @@
 
 - Statistics
 - Deep Learning and Machine Learning
-- Advanced uses of React.js
 - Frontend web development (React.Js, Electron)
 
 ## 🎵 Spotify status
