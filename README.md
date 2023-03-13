@@ -5,14 +5,14 @@
 ## 💬 Ask me about 
 
 - Backend development (C++,Node.js,Python)
-- Power Application (PowerApps, Power Bi, Power Automation, Sharepoint, ...)
+- Power Application (PowerApps, Power Bi, Power Automation, Sharepoint, Azure)
 - Sound systems & Music in general
 
 ## 📅 Hobbies
 
 - Solve programming problems at Codeforces, Codingame, LeetCode
 - Watch movies & TV shows
-- Travelling all around the world when I can
+- Travelling all around the world as soon as I can
 - Play guitar
 - Videogames
 
