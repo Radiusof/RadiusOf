@@ -4,7 +4,8 @@
 
 ## 💬 Ask me about 
 
-- Backend development (C++,Node.js,Python)
+- Backend development (NestJs, TypeScript, C++,Node.js,Python)
+- Building efficient & scalable API & Micro-Services
 - Power Application (PowerApps, Power Bi, Power Automation, Sharepoint, Azure)
 - Sound systems & Music in general
 
@@ -19,9 +20,11 @@
 ## 💻 Current project
 
 - Work projects
+- Bluetooth audio transmitter w/ Raspberry 4
 
 ## 📚 Learning
 
+- Try to keep up with Javascript framework
 - Statistics
 - Deep Learning and Machine Learning
 - Frontend web development (React.Js, Electron)
