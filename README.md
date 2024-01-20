@@ -1,6 +1,7 @@
 # Hello there 👋, I'm Kevin
 
-### A software engineer from Lille
+### A software engineer from Lille currently working at IDKids as an API Developer
+### This is my personal repo, you'll found my scholar work as well as others personal projects that I put together for my own training & pleasure. 
 
 ## 💬 Ask me about 
 
