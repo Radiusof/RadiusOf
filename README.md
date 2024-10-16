@@ -27,7 +27,7 @@
 - Try to keep up with Javascript framework
 - Statistics
 - Deep Learning and Machine Learning
-- Frontend web development (Angular)
+- Web Scraping
 
 ## 🎵 Spotify status
 
