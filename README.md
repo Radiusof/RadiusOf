@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Kevin
 
-### A software engineer from Lille currently working at Datakhi as FullStack Developer
+### A software engineer from Lille currently working at Kingfischer.
 ### This is my personal repo, you'll found my scholar work as well as others personal projects that I put together for my own training & pleasure. 
 
 ## 💬 Ask me about 
